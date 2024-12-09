@@ -1,6 +1,6 @@
 import { connect } from 'nats.ws';
 
-const NATS_SERVER_URL = 'ws://192.168.0.192:8080';
+const NATS_SERVER_URL = 'ws://192.168.0.103:8080';
 
 
 let natsConnection = null;
